@@ -52,3 +52,13 @@ This system is designed for businesses or institutions that require appointment 
 - **Database**: PostgreSQL (using Prisma ORM)
 - **Authentication**: JSON Web Tokens (JWT)
 - **Email Notifications**: Gmail API
+  
+---
+##  **Try It**
+-- https://scheduletoday.me/1
+
+- **Admin Page**
+- https://scheduletoday.me/admin/1
+- **Username**: test@gmail.com
+- **Password**: 1234
+
